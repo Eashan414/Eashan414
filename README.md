@@ -6,5 +6,5 @@
 - I'm based in the Capital Region of New York.
 - I know Java, and a good amount of Python. I'm learning JavaScript and Bootstrap right now. HTML and CSS are also things I'm learning in parallel.
 - I love technology, whether it be cutting-edge laboratory and factory equipment, or consumer technology, like smartphones and computers. I take college technology classes in school as well. 
-- I like to read and write, and my favorite book is *A Darkling Plain* by Philip Reeve. I am currently reading the original Dune series by Frank Herbert, and I am on *God Emperor of Dune*.
+- I like to read and write, and my favorite book is *A Darkling Plain* by Philip Reeve. I am currently reading the original Dune series by Frank Herbert, and I am on *Heretics of Dune*.
 - I will not be posting a lot on this page.
